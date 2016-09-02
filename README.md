@@ -1,4 +1,4 @@
-# designing-sound-questions
+# Designing Sound Questions
 Questions I come up with as practice for the book Designing Sound
 
 
