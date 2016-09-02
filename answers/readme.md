@@ -14,4 +14,4 @@ Here I will be listing the answers. If you want to use this, I encourage you to 
 7. E, F, N, J, Pa.
 8. 1 atmosphere is 101325 Pa. We measure acoustic pressure relative to this.
 9. p = F/A; Pa = 1N/m^2
-10. W = &#0394; E
+10. W = Δ E
