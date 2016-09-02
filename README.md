@@ -17,4 +17,5 @@ Questions I come up with as practice for the book Designing Sound
 7. Pressure is force over area. What is the formula for pressure? What is the formula for 1 Pa?
 7. Work is changing energy. What is the formula for work?
 8. Everything is connected. This interconnectedness serves to transmit energy within a system. How does sound fit in?
-9. 
+9. What is Power? What is it measured in?
+10. What are our sources of energy?
